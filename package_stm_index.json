@@ -76,8 +76,8 @@
           "category": "Contributed",
           "url": "https://github.com/Leafony/BoardManagerFiles/raw/main/STM32-1.9.1release2.tar.bz2",
           "archiveFileName": "STM32-1.9.1release2.tar.bz2",
-          "checksum": "SHA-256:3AE9124E68EA78B5360C54C95C37A7C144ABDB12C106EAD7864167632D61FFF4",
-          "size": "33208907",
+          "checksum": "SHA-256:F280F9CAAB366D3FCE647D03C1DEAC2A1B1D89160B3ED9229712E38DD9D0798A",
+          "size": "33209527",
           "boards": [
             {"name": "Leafony STM32"}
           ],
