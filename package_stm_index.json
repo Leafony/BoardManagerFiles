@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "STM32",
-      "websiteURL": "http://www.st.com/en/microcontrollers.html",
+      "websiteURL": "https://docs.leafony.com/",
       "maintainer": "Leafony",
       "email": "",
       "help": {
