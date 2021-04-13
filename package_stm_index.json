@@ -10,74 +10,14 @@
       },
       "platforms": [
         {
-          "name": "STM32 cores with Leafony",
+          "name": "STM32 Cores with Leafony",
           "architecture": "stm32",
-          "version": "1.9.1-RC0",
+          "version": "1.9.1-R00",
           "category": "Contributed",
-          "url": "https://github.com/Leafony/BoardManagerFiles/raw/main/STM32-1.9.1rc0.tar.bz2",
-          "archiveFileName": "STM32-1.9.1rc0.tar.bz2",
-          "checksum": "SHA-256:f6115091b344e28ddfef6ad185fe90ac42bf73f259c7ca6e4fb8a8d002b6b308",
-          "size": "33622939",
-          "boards": [
-            {"name": "Leafony STM32"}
-          ],
-          "toolsDependencies": [
-            {
-              "packager": "STM32",
-              "name": "xpack-arm-none-eabi-gcc",
-              "version": "9.2.1-1.1"
-            },
-            {
-              "packager": "STM32",
-              "name": "STM32Tools",
-              "version": "1.4.0"
-            },
-            {
-              "packager": "STM32",
-              "name": "CMSIS",
-              "version": "5.5.1"
-            }
-          ]
-        },
-        {
-          "name": "STM32 cores with Leafony",
-          "architecture": "stm32",
-          "version": "1.9.1-Release1",
-          "category": "Contributed",
-          "url": "https://github.com/Leafony/BoardManagerFiles/raw/main/STM32-1.9.1release1.tar.bz2",
-          "archiveFileName": "STM32-1.9.1release1.tar.bz2",
-          "checksum": "SHA-256:5909331eee916a3c265b3dc586a07d47d3c1194fd4b431575660c5f8da40103b",
-          "size": "33622879",
-          "boards": [
-            {"name": "Leafony STM32"}
-          ],
-          "toolsDependencies": [
-            {
-              "packager": "STM32",
-              "name": "xpack-arm-none-eabi-gcc",
-              "version": "9.2.1-1.1"
-            },
-            {
-              "packager": "STM32",
-              "name": "STM32Tools",
-              "version": "1.4.0"
-            },
-            {
-              "packager": "STM32",
-              "name": "CMSIS",
-              "version": "5.5.1"
-            }
-          ]
-        },
-        {
-          "name": "STM32 cores with Leafony",
-          "architecture": "stm32",
-          "version": "1.9.1-Release2",
-          "category": "Contributed",
-          "url": "https://github.com/Leafony/BoardManagerFiles/raw/main/STM32-1.9.1release2.tar.bz2",
-          "archiveFileName": "STM32-1.9.1release2.tar.bz2",
-          "checksum": "SHA-256:8FDBADCE928F7AB2145B2314769FFAAADCF9BE49591C5D3862ECFC9AD4637505",
-          "size": "33207386",
+          "url": "https://github.com/Leafony/BoardManagerFiles/raw/main/STM32-1.9.1_Leafony00.tar.bz2",
+          "archiveFileName": "STM32-1.9.1_Leafony00.tar.bz2",
+          "checksum": "SHA-256:E93F04A3B06365EB085E7CA50D6F1996C349A3315F7E7453F7057AD199E6EE59",
+          "size": "33270279",
           "boards": [
             {"name": "Leafony STM32"}
           ],
