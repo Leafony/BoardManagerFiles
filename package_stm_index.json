@@ -3,7 +3,7 @@
     {
       "name": "STM32",
       "websiteURL": "http://www.st.com/en/microcontrollers.html",
-      "maintainer": "STMicroelectronics",
+      "maintainer": "Leafony",
       "email": "",
       "help": {
         "online": "http://www.stm32duino.com/"
@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://github.com/Leafony/BoardManagerFiles/raw/main/STM32-1.9.1_Leafony00.tar.bz2",
           "archiveFileName": "STM32-1.9.1_Leafony00.tar.bz2",
-          "checksum": "SHA-256:E93F04A3B06365EB085E7CA50D6F1996C349A3315F7E7453F7057AD199E6EE59",
-          "size": "33270279",
+          "checksum": "SHA-256:8B6A8484213A4786C5AFD345ED4095168D5F50E803DC65910D30C5CCB085B51F",
+          "size": "33271073",
           "boards": [
             {"name": "Leafony STM32"}
           ],
