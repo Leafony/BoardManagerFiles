@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "STM32",
+      "name": "Lafony_STM32",
       "websiteURL": "https://docs.leafony.com/",
       "maintainer": "Leafony",
       "email": "",
@@ -12,7 +12,7 @@
         {
           "name": "Leafony with STM32 Cores",
           "architecture": "stm32",
-          "version": "1.9.1-R00",
+          "version": "00-1.9.1",
           "category": "Contributed",
           "url": "https://github.com/Leafony/BoardManagerFiles/raw/main/STM32-1.9.1_Leafony00.tar.bz2",
           "archiveFileName": "STM32-1.9.1_Leafony00.tar.bz2",
