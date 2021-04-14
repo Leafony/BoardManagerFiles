@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "Leafony_STM32",
+      "name": "STM32",
       "websiteURL": "https://docs.leafony.com/",
       "maintainer": "Leafony",
       "email": "",
