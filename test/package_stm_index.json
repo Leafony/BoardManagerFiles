@@ -11,7 +11,7 @@
       "platforms": [
         {
           "name": "Leafony with STM32 Cores",
-          "architecture": "stm32",
+          "architecture": "leafony_stm32",
           "version": "1.9.1-R00",
           "category": "Contributed",
           "url": "https://github.com/Leafony/BoardManagerFiles/raw/main/test/Leafony_STM32.tar.bz2",
