@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "STM32 Cores with Leafony",
+          "name": "Leafony with STM32 Cores",
           "architecture": "stm32",
           "version": "1.9.1-R00",
           "category": "Contributed",
