@@ -14,7 +14,7 @@
           "architecture": "stm32",
           "version": "1.9.1-R00",
           "category": "Contributed",
-          "url": "https://github.com/Leafony/BoardManagerFiles/raw/master/STM32-1.9.1_Leafony00.tar.bz2",
+          "url": "https://github.com/Leafony/BoardManagerFiles/raw/master/Leafony_STM32/STM32-1.9.1_Leafony00.tar.bz2",
           "archiveFileName": "STM32-1.9.1_Leafony00.tar.bz2",
           "checksum": "SHA-256:0B1D8640481E7798AD45947C7358CA93ECF3A3BBFD5691ABCD4119B339746675",
           "size": "33221343",
