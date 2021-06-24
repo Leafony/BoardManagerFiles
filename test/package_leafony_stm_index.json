@@ -10,14 +10,14 @@
       },
       "platforms": [
         {
-          "name": "Leafony with STM32 Cores",
+          "name": "Leafony STM32",
           "architecture": "stm32",
           "version": "1.9.1-R00",
           "category": "Contributed",
           "url": "https://github.com/Leafony/BoardManagerFiles/raw/master/test/Leafony-00_STM32-1.9.1.tar.bz2",
           "archiveFileName": "Leafony-00_STM32-1.9.1.tar.bz2",
-          "checksum": "SHA-256:0B1D8640481E7798AD45947C7358CA93ECF3A3BBFD5691ABCD4119B339746675",
-          "size": "33221343",
+          "checksum": "SHA-256:18888B4E02D320B90F06E0EE16E053F408AA294B876C9516747AC56F2B390C1F",
+          "size": "33224935",
           "boards": [
             {"name": "Leafony STM32"}
           ],
@@ -717,3 +717,4 @@
     }
   ]
 }
+
