@@ -20,8 +20,21 @@ Leafony_STM32.build.core=arduino
 Leafony_STM32.build.board=Leafony_STM32
 Leafony_STM32.build.extra_flags=-D{build.product_line} {build.enable_usb} {build.xSerial}
 
+# Leafony STM32 L452RE 16MHz Board variant
+Leafony_STM32.menu.pnum.Leafony_L452RE_16MHz=Leafony STM32 MCU (16MHz)
+Leafony_STM32.menu.pnum.Leafony_L452RE_16MHz.node=NODE_L452RE
+Leafony_STM32.menu.pnum.Leafony_L452RE_16MHz.upload.maximum_size=524288
+Leafony_STM32.menu.pnum.Leafony_L452RE_16MHz.upload.maximum_data_size=163840
+Leafony_STM32.menu.pnum.Leafony_L452RE_16MHz.build.mcu=cortex-m4
+Leafony_STM32.menu.pnum.Leafony_L452RE_16MHz.build.flags.fp=-mfpu=fpv4-sp-d16 -mfloat-abi=hard
+Leafony_STM32.menu.pnum.Leafony_L452RE_16MHz.build.board=Leafony_L452RE_16MHz
+Leafony_STM32.menu.pnum.Leafony_L452RE_16MHz.build.series=STM32L4xx
+Leafony_STM32.menu.pnum.Leafony_L452RE_16MHz.build.product_line=STM32L452xx
+Leafony_STM32.menu.pnum.Leafony_L452RE_16MHz.build.variant=Leafony_L452RE_16MHz
+Leafony_STM32.menu.pnum.Leafony_L452RE_16MHz.build.cmsis_lib_gcc=arm_cortexM4lf_math
+
 # Leafony STM32 L452RE Board variant
-Leafony_STM32.menu.pnum.Leafony_L452RE=Leafony STM32 MCU
+Leafony_STM32.menu.pnum.Leafony_L452RE=Leafony STM32 MCU (80MHz)
 Leafony_STM32.menu.pnum.Leafony_L452RE.node=NODE_L452RE
 Leafony_STM32.menu.pnum.Leafony_L452RE.upload.maximum_size=524288
 Leafony_STM32.menu.pnum.Leafony_L452RE.upload.maximum_data_size=163840
@@ -32,19 +45,6 @@ Leafony_STM32.menu.pnum.Leafony_L452RE.build.series=STM32L4xx
 Leafony_STM32.menu.pnum.Leafony_L452RE.build.product_line=STM32L452xx
 Leafony_STM32.menu.pnum.Leafony_L452RE.build.variant=Leafony_L452RE
 Leafony_STM32.menu.pnum.Leafony_L452RE.build.cmsis_lib_gcc=arm_cortexM4lf_math
-
-# Leafony STM32 L452RE_256KB Board variant
-Leafony_STM32.menu.pnum.Leafony_L452RE_256=Leafony STM32 MCU (256KB)
-Leafony_STM32.menu.pnum.Leafony_L452RE_256.node=NODE_L452RE
-Leafony_STM32.menu.pnum.Leafony_L452RE_256.upload.maximum_size=262144
-Leafony_STM32.menu.pnum.Leafony_L452RE_256.upload.maximum_data_size=163840
-Leafony_STM32.menu.pnum.Leafony_L452RE_256.build.mcu=cortex-m4
-Leafony_STM32.menu.pnum.Leafony_L452RE_256.build.flags.fp=-mfpu=fpv4-sp-d16 -mfloat-abi=hard
-Leafony_STM32.menu.pnum.Leafony_L452RE_256.build.board=Leafony_L452RE
-Leafony_STM32.menu.pnum.Leafony_L452RE_256.build.series=STM32L4xx
-Leafony_STM32.menu.pnum.Leafony_L452RE_256.build.product_line=STM32L452xx
-Leafony_STM32.menu.pnum.Leafony_L452RE_256.build.variant=Leafony_L452RE
-Leafony_STM32.menu.pnum.Leafony_L452RE_256.build.cmsis_lib_gcc=arm_cortexM4lf_math
 
 # Upload menu
 Leafony_STM32.menu.upload_method.serialMethod=STM32CubeProgrammer (Serial)
