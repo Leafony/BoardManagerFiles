@@ -12,7 +12,7 @@
         {
           "name": "Leafony STM32",
           "architecture": "stm32",
-          "version": "1.9.1-R00",
+          "version": "2.0.0-R00",
           "category": "Contributed",
           "url": "https://github.com/Leafony/BoardManagerFiles/blob/master/Leafony_STM32_v3/Leafony-00_STM32-2.0.0.tar.bz2",
           "archiveFileName": "Leafony-00_STM32-2.0.0.tar.bz2",
